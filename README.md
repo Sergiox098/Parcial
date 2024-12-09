@@ -1,5 +1,5 @@
 # Parcial
-Parcial 9 de Noviembre 
+Parcial 9 de Noviembre de Sergio Alejandro Gómez Contreras.
 
 # Punto 1:
 
